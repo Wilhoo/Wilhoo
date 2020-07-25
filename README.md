@@ -1,16 +1,14 @@
-### Hi there 👋
+## Fernando Willian :man_technologist:
 
-<!--
-**Wilhoo/Wilhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/fernando-willian/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fwfernandowil6@gmail.com
+)](mailto:fwfernandowil6@gmail.com
+)
 
-Here are some ideas to get you started:
+<img src="https://github.com/wilhoo/wilhoo/blob/master/Assets/hello_giphy.gif" style="width: 400px;" style="height: 20px;" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Fernando Willian, técnologo em Análise e Desenvolvimentos de Sistemas. Atualmente estou fazendo parte do bootcamp GoStack da Rocketseat e estou focado nas tecnologias com foco na parte Web, no intuito de entrar no mercado como desenvolvedor.
+
+- :computer: Web Developer :computer:
+
+- :books: Atualmente estou estudando as techs ReactJS, React Native e NodeJS. :purple_heart:
