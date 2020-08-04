@@ -7,7 +7,7 @@
 
 <img src="https://github.com/wilhoo/wilhoo/blob/master/Assets/hello_giphy.gif" style="width: 400px;" style="height: 20px;" >
 
-Meu nome é Fernando Willian, técnologo em Análise e Desenvolvimentos de Sistemas. Atualmente estou fazendo parte do bootcamp GoStack da Rocketseat e estou focado nas tecnologias com foco na parte Web, no intuito de entrar no mercado como desenvolvedor.
+Meu nome é Fernando Willian, técnologo em Análise e Desenvolvimentos de Sistemas. Atualmente estou fazendo parte do bootcamp GoStack da Rocketseat e estou focado nas tecnologias voltadas para a parte Web, no intuito de entrar no mercado como desenvolvedor.
 
 - :computer: Web Developer :computer:
 
