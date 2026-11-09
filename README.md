@@ -9,4 +9,4 @@
 
 - :computer: Web Developer :computer:
 
-- :books: Atualmente estou estudando as techs ReactJS, React Native e NodeJS. :purple_heart:
+- :books: Atualmente estou estudando as techs ReactJS, React Native e NodeJS.
